@@ -59,7 +59,7 @@ Base URL: https://dev.app.dwara.one/
    .env
    ```
 
-7. Create a base Page Object class (BasePage.ts) with common methods:
+7. Create a base Page Object class (base-runner.js) with common methods:
 
    - Navigation
    - Element interaction (click, fill, etc.)
