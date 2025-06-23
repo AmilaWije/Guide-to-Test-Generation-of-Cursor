@@ -2,9 +2,10 @@
 This is just technical document file to guide playwright project using playwright
 
 # Initialize new project with specific folder structure
-# Playwright Test Automation Framework Initialization
 
-## Project Initialization Instructions
+*# Playwright Test Automation Framework Initialization
+
+*## Project Initialization Instructions
 
 I need you to help me set up a comprehensive Playwright test automation framework with TypeScript and Page Object Model pattern for the Dwara Source to Pay (STP) Application. Please follow these steps:
 
